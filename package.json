@@ -1,6 +1,6 @@
 {
   "name": "to-dolist",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Todo list Desktop App",
   "main": "main.js",
   "scripts": {
