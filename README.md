@@ -1,4 +1,4 @@
-# Price-Trackeing-App
+# To-do List 
 Price Tracking App for Stocks, Forex and other investments
-# Price-Trackeing-App
-Ref: # Price-Trackeing-App
+# Aknowledgements 
+Ref: https://www.youtube.com/watch?v=kN1Czs0m1SU&t=38s
