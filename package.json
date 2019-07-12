@@ -4,7 +4,7 @@
   "description": "Tod0 list Disktop App",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "electron ."
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/halilmarx07/To-doList/issues"
   },
-  "homepage": "https://github.com/halilmarx07/To-doList#readme"
+  "homepage": "https://github.com/halilmarx07/To-doList#readme",
+  "dependencies": {
+    "electron": "^5.0.6"
+  }
 }
