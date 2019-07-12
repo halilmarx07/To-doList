@@ -1,7 +1,7 @@
 {
   "name": "to-dolist",
   "version": "1.0.0",
-  "description": "Tod0 list Disktop App",
+  "description": "Todo list Desktop App",
   "main": "index.js",
   "scripts": {
     "start": "electron ."
