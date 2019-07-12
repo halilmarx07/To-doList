@@ -1,0 +1,23 @@
+{
+  "name": "to-dolist",
+  "version": "1.0.0",
+  "description": "Tod0 list Disktop App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/halilmarx07/To-doList.git"
+  },
+  "keywords": [
+    "To-do",
+    "List"
+  ],
+  "author": "Halil Mucaram",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/halilmarx07/To-doList/issues"
+  },
+  "homepage": "https://github.com/halilmarx07/To-doList#readme"
+}
