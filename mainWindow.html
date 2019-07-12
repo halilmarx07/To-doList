@@ -4,10 +4,21 @@
     <title>To-do List developed by Halil S. Mucaram</title>
 </head>
 <body>
-    <h1>To-do List
-        <br>
-        by Halil S. Mucaram
-        </br>
-    </h1>
+    <h1>To-do List</h1>
+    <ul></ul>
+
+    <script>
+            const electron = require('electron');
+            const {ipcRenderer} = electron;
+            const ul = document.querySelector('ul');
+            
+            ipcRenderer.on('item:add', function(e, item){
+                const li = document.createElement('li');
+                const itemText = document.createTextNode(item);
+                li.appendChild(itemText);
+                ul.appendChild(li);
+            });
+
+    </script>
 </body>
 </html>
