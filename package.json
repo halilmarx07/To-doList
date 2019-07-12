@@ -2,7 +2,7 @@
   "name": "to-dolist",
   "version": "1.0.0",
   "description": "Todo list Desktop App",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
