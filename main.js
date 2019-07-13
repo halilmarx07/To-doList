@@ -37,8 +37,8 @@ function createAddWindow(){
 
     // Create new window 
     addWindow = new BrowserWindow({
-        width: 500,
-        heigh: 30,
+        width: 300,
+        heigh: 200,
         title: 'Add Note'
     });
 
